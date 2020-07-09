@@ -64,10 +64,29 @@
   "profile": {
     "name": "typicode"
   },
-  "factura": {
+  "factura": [{
+    "numero":"001-001-0000342",
+    "fechaEmision":"04/06/2020",
+    "fechaAutorizacion":"04/07/2020",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+  },
+    {
+    "numero":"001-001-0000342",
+    "fechaEmision":"04/06/2020",
+    "fechaAutorizacion":"04/07/2020",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+  },
+             {
+    "numero":"001-001-0000342",
+    "fechaEmision":"04/06/2020",
+    "fechaAutorizacion":"04/07/2020",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+  },
+             {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
   }
+  ]
 }
