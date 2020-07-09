@@ -1,0 +1,73 @@
+{
+  "admin": {
+      "id": 1,
+      "user": 1,
+      "company": "1726039967001",
+      "profile": "admin",
+      "CI": "1726039967",
+      "token": "hhhasuanduan#",
+      "resource": [
+        {
+          "id": 1,
+          "nameMenu": "Inicio",
+          "titlePage": "Inicio",
+          "menuPadre": true
+        },
+        {
+          "id": 2,
+          "nameMenu": "Administracion",
+          "titlePage": "Administracion",
+          "menuPadre": null
+        },
+        {
+          "id": 3,
+          "nameMenu": "Usuarios",
+          "titlePage": "Administracion de Usuarios",
+          "menuPadre": 2
+        }
+      ]
+  },
+  "seller": {
+      "id": 2,
+      "user": 1,
+      "company": "1726039967001",
+       "CI": "1726039967",
+      "profile": "admin",
+          "token": "hhhasuanduan#",
+      "resource": [
+        {
+          "id": 1,
+          "nameMenu": "Inicio",
+          "titlePage": "Inicio",
+          "menuPadre": true
+        },
+        {
+          "id": 2,
+          "nameMenu": "Administracion",
+          "titlePage": "Administracion",
+          "menuPadre": null
+        },
+        {
+          "id": 3,
+          "nameMenu": "Clientes",
+          "titlePage": "Administracion de Clientes",
+          "menuPadre": 2
+        },
+        {
+          "id": 4,
+          "nameMenu": "Productos / Servicios",
+          "titlePage": "Administracion de Productos / Servicios",
+          "menuPadre": 2
+        }
+      ]
+  },
+  "profile": {
+    "name": "typicode"
+  },
+  "factura": {
+    "numero":"001-001-0000342",
+    "fechaEmision":"04/06/2020",
+    "fechaAutorizacion":"04/07/2020",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+  }
+}
