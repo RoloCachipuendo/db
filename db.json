@@ -105,7 +105,7 @@
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-    "tipo":"Nota de Crédigo"
+    "tipo":"Nota de Crédigo",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
