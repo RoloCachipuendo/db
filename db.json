@@ -64,11 +64,12 @@
   "profile": {
     "name": "typicode"
   },
-  "factura": [{
+  "comprobanteElectronico": [{
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "tipo":"factura"
   },
     {
     "numero":"001-001-0000342",
@@ -80,31 +81,37 @@
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+               "tipo":"factura"
   },
              {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+               "tipo":"factura"
   },
               {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+                "tipo":"Nota de Crédigo"
   },
               {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+                "tipo":"Nota de débito"
+                
   },
               {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A."
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+                "tipo":"Guiia de remisión"
   }
   ]
 }
