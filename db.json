@@ -69,42 +69,48 @@
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-    "tipo":"Factura"
+    "tipo":"Factura",
+    "estado":"11"
   },
   {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-    "tipo":"Factura"
+    "tipo":"Factura",
+    "estado":"11"
   },
   {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-     "tipo":"Nota de débito"
+    "tipo":"Nota de débito",
+    "estado":"11"
   },
   {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-     "tipo":"Comprobante de retención"
+    "tipo":"Comprobante de retención",
+    "estado":"11"
   },
   {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-     "tipo":"Nota de Crédigo"
+    "tipo":"Nota de Crédigo"
+    "estado":"11"
   },
   {
     "numero":"001-001-0000342",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-     "tipo":"Nota de débito"
+    "tipo":"Nota de débito",
+    "estado":"11"
                 
   },
   {
@@ -112,7 +118,8 @@
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
-     "tipo":"Guía de remisión"
+    "tipo":"Guía de remisión",
+    "estado":"11"
   }
   ]
 }
