@@ -74,56 +74,56 @@
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000343",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":"COMPAÑÍA FACTORING",
     "tipo":"Factura",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000344",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":" FACTORING ELECTRÓNICO",
     "tipo":"Nota de débito",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000345",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":"ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Comprobante de retención",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000346",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":"ECUACONFIRMING S.A.",
     "tipo":"Nota de Crédigo",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000347",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":"ELECTRÓNICO ECUADOR",
     "tipo":"Nota de débito",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
                 
   },
   {
-    "numero":"001-001-0000342",
+    "numero":"001-001-0000348",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "emisor":"COMPAÑÍA FACTORING S.A.",
     "tipo":"Guía de remisión",
     "estado":"11",
     "mensaje":"ERROR SECUENCIAL REGISTRADO"
