@@ -70,7 +70,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Factura",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
     "numero":"001-001-0000342",
@@ -78,7 +79,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Factura",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
     "numero":"001-001-0000342",
@@ -86,7 +88,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Nota de débito",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
     "numero":"001-001-0000342",
@@ -94,7 +97,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Comprobante de retención",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
     "numero":"001-001-0000342",
@@ -102,7 +106,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Nota de Crédigo"
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   },
   {
     "numero":"001-001-0000342",
@@ -110,7 +115,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Nota de débito",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
                 
   },
   {
@@ -119,7 +125,8 @@
     "fechaAutorizacion":"04/07/2020",
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Guía de remisión",
-    "estado":"11"
+    "estado":"11",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO"
   }
   ]
 }
