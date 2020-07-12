@@ -71,7 +71,8 @@
     "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Factura",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"BigData"
   },
   {
     "numero":"001-001-0000343",
@@ -80,7 +81,8 @@
     "emisor":"COMPAÑÍA FACTORING",
     "tipo":"Factura",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"Coporación Favorita"
   },
   {
     "numero":"001-001-0000344",
@@ -89,7 +91,8 @@
     "emisor":" FACTORING ELECTRÓNICO",
     "tipo":"Nota de débito",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"Pronaca"
   },
   {
     "numero":"001-001-0000345",
@@ -98,7 +101,8 @@
     "emisor":"ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Comprobante de retención",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"Tía"
   },
   {
     "numero":"001-001-0000346",
@@ -107,7 +111,8 @@
     "emisor":"ECUACONFIRMING S.A.",
     "tipo":"Nota de Crédigo",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"Super Paco"
   },
   {
     "numero":"001-001-0000347",
@@ -116,8 +121,8 @@
     "emisor":"ELECTRÓNICO ECUADOR",
     "tipo":"Nota de débito",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
-                
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"De Prati"
   },
   {
     "numero":"001-001-0000348",
@@ -126,7 +131,8 @@
     "emisor":"COMPAÑÍA FACTORING S.A.",
     "tipo":"Guía de remisión",
     "estado":"11",
-    "mensaje":"ERROR SECUENCIAL REGISTRADO"
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
+    "receptor":"Extinseg"
   }
   ]
 }
