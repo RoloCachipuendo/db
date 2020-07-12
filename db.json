@@ -88,10 +88,10 @@
     "numero":"001-001-0000344",
     "fechaEmision":"04/06/2020",
     "fechaAutorizacion":"04/07/2020",
-    "emisor":" FACTORING ELECTRÓNICO",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
     "tipo":"Nota de débito",
     "estado":"11",
-    "mensaje":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR ECUACONFIRMING S.A.",
+    "mensaje":"ERROR SECUENCIAL REGISTRADO",
     "receptor":"Pronaca"
   },
   {
